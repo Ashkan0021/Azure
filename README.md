@@ -4,7 +4,7 @@
 In today's rapidly evolving digital landscape, organizations face the imperative of managing and migrating diverse data assets efficiently. Drawing from comprehensive research and industry best practices, I have crafted a high-level data architecture tailored for seamless data migration. This architecture addresses the spectrum of data types, including structured and unstructured data, as well as SQL and NoSQL databases. By leveraging the Azure ecosystem, this architecture provides a robust framework to facilitate the migration process, ensuring data integrity, scalability, and security every step of the way, while also optimizing resource utilization and cost considerations throughout various stages.
 
 **Assumptions:**
-I assumed the organization possesses extensive historical data, including both archived and actively used datasets, managed separately using two distinct database managers like SQL Server and MongoDB. Additionally, there are large media files, log data, and streaming data sources such as IoT devices. Furthermore, there is a requirement to provide advanced data analytics, business intelligence, and machine learning capabilities to users.
+I'm assuming a sizable enterprise is pursuing a cloud migration for its data infrastructure, aligning with industry recommendations. The organization manages a diverse dataset, including both archived and active data sets, segregated between SQL Server and MongoDB databases. Moreover, it handles large media files, log data, and streaming data from IoT devices. In line with best practices, there's a pressing need to deliver advanced data analytics, business intelligence, and machine learning capabilities to stakeholders.
 
 ### **Architectures' components**
 
