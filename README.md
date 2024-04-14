@@ -183,7 +183,7 @@ Security and compliance are top priorities, addressed through Azure Synapse Anal
 Additionally, the architecture integrates Azure Stream Analytics for real-time data processing, Azure Purview for unified data governance and discovery, and Azure Machine Learning for advanced analytics. Power BI enhances business insights with interactive dashboards and visualizations.
 
 **Pros, and Cons:**
-While your architecture boasts numerous strengths, it's essential to acknowledge its potential drawbacks to ensure a comprehensive understanding. Here are the key cons:
+While this architecture boasts numerous strengths, it's essential to acknowledge its potential drawbacks to ensure a comprehensive understanding. Here are the key cons:
 
 1. **Unified Data Platform**:Leveraging a data lakehouse architecture, this solution seamlessly merges the strengths of data lakes and data warehouses, providing a unified platform for diverse data processing and analytics. By dismantling data silos, it streamlines management, enhancing efficiency and agility in decision-making.
 2. **Flexibility and Scalability**:At its core, Azure Synapse Analytics offers unparalleled flexibility in handling structured, semi-structured, and unstructured data. This adaptability ensures seamless scalability to evolving business needs, maintaining responsiveness and efficiency even with expanding data volumes.
