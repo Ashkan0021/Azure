@@ -29,7 +29,7 @@ I'm assuming a sizable enterprise is pursuing a cloud migration for its data inf
 
 **Data Integration and Processing:**
 
--Azure Synapse Analytics serves as the central hub for data integration, processing, and analytics. It offers a wide range of capabilities, including:- Migrate on-premises SQL databases to Azure SQL Database or Azure SQL Managed Instance using Azure Data Factory for orchestration and automation. Azure SQL Managed Instance provides a highly compatible and scalable environment for your SQL workloads.
+-Azure Synapse Analytics serves as the central hub for data integration, processing, and analytics. It offers a wide range of capabilities, including:
 
 - SQL pools for traditional data warehousing workloads, supporting T-SQL queries and familiar SQL tools.
 - Apache Spark pools for big data processing and analytics, providing distributed computing capabilities and support for popular languages such as Scala, Python, and R.
