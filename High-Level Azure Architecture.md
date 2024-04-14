@@ -1,4 +1,4 @@
-# Seamless Data Migration: Crafting a High-Level Azure Architecture
+# Seamless Data Migration: Crafting a High-Level Azure Architecture by Ashkan Dashtban
 
 **Introduction**
 In today's rapidly evolving digital landscape, organizations face the imperative of managing and migrating diverse data assets efficiently. Drawing from comprehensive research and industry best practices, I have crafted a high-level data architecture tailored for seamless data migration. This architecture addresses the spectrum of data types, including structured and unstructured data, as well as SQL and NoSQL databases. By leveraging the Azure ecosystem, this architecture provides a robust framework to facilitate the migration process, ensuring data integrity, scalability, and security every step of the way, while also optimizing resource utilization and cost considerations throughout various stages.
