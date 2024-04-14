@@ -9,6 +9,7 @@ I'm assuming a sizable enterprise is pursuing a cloud migration for its data inf
 ### **Architectures' components**
 
 **Data Lakehouse Architecture:**
+
 -Adopt a data lakehouse architecture with Azure Synapse Analytics at its core. The data lakehouse architecture combines the benefits of a data lake and a data warehouse, providing a unified platform for data storage, processing, and analytics. Azure Synapse Analytics offers a wide range of analytics capabilities, including support for structured, semi-structured, and unstructured data.
 
 **Data Migration and Storage:**
