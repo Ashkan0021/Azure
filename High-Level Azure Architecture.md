@@ -204,3 +204,7 @@ While your architecture boasts numerous strengths, it's essential to acknowledge
 7. **Real-time Analytics Limitations**: While powerful, real-time analytics may falter under extreme data volumes, necessitating thorough assessment of scalability and performance requirements.
 8. **Data Sharing and Collaboration Constraints**: Built-in sharing features come with limitations, such as data size restrictions and access control complexities, requiring a delicate balance between sharing needs and security demands.
 9. **Vendor Lock-in**: Dependence on Azure services raises concerns about vendor entrapment, urging organizations to explore strategies like hybrid or multi-cloud approaches for long-term flexibility.
+
+
+**Future works**
+In the upcoming article, I'll construct equivalent AWS cloud-based architecture and conduct a comparative analysis between them. I'll also streamline the architectures by eliminating certain services under different assumptions.
