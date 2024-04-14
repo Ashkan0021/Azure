@@ -167,7 +167,7 @@ I'm assuming a sizable enterprise is pursuing a cloud migration for its data inf
 
 -Implement data lifecycle management practices to optimize storage costs and manage data throughout its lifecycle:
 - Define data retention policies based on regulatory requirements, business needs, and data value. Archive or delete data that is no longer needed, reducing storage costs and improving data organization.
-- Archive infrequently accessed data to cost-effective storage tiers, such as Azure Blob Storage's cool or archive tiers, optimizing storage costs while retaining data for compliance or historical analysis.
+- Archive infrequently accessed data to cost-effective storage tiers, such as Azure Blob Storage's objects or archive tiers, optimizing storage costs while retaining data for compliance or historical analysis.
 - Implement data deletion policies for data that has reached the end of its retention period or is no longer required, ensuring efficient storage utilization and reducing data management overhead. 
 
 -Leverage Azure Synapse Analytics' data lifecycle management capabilities:
