@@ -13,6 +13,14 @@ I'm assuming a sizable enterprise is pursuing a cloud migration for its data inf
 
 -Adopt a data lakehouse architecture with Azure Synapse Analytics at its core. The data lakehouse architecture combines the benefits of a data lake and a data warehouse, providing a unified platform for data storage, processing, and analytics. Azure Synapse Analytics offers a wide range of analytics capabilities, including support for structured, semi-structured, and unstructured data.
 
+**Network Connectivity:**
+
+-Establish a secure connection between your on-premises data center and Azure using Azure ExpressRoute or a site-to-site VPN. This ensures a private and reliable connection for data transfer.
+
+**Identity and Access Management:**
+
+-Integrate Azure Active Directory (Azure AD) with your on-premises identity solution (such as Active Directory Domain Services) using Azure AD Connect. This synchronizes identities and enables single sign-on across both environments.
+
 **Data Migration and Storage:**
 
 -Structured Data:
